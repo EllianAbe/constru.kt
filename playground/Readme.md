@@ -3,4 +3,4 @@
 
 - Functions
 - oop basic concepts
-- oop main concepts (enhiretance, pol)
+- oop main concepts (inheritance polymorphism encapsulation abstraction)
